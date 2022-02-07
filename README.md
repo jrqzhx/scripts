@@ -6,5 +6,7 @@
 请不要使用！请不要使用！请不要使用！
 
 
-频道：https://t.me/KingRan521
+```shell
+ql repo https://github.com//xiaotong1995/scripts.git "jd_|jx_|jdCookie" "activity|backUp|opencard" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR" "jdjb"
+```
 
